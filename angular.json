@@ -10,7 +10,6 @@
           "strict": true
         },
         "@schematics/angular:component": {
-          "style": "scss",
           "changeDetection": "OnPush",
           "skipImport": true,
           "standalone": true
